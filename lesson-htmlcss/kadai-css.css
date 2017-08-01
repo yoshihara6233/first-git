@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+/* なぜ、下に間が空くのか不明？*/
+
+header p {
+    display:block;
+    background-color: #ffcccc;
+    margin: 0;
+}
+
+#main{
+    display:block;
+    background-color: #ccffcc;
+    width: 700px; 
+    margin: 0;
+}
+
+#menu{
+    display:block;
+    background-color: #ccccff;
+    float: right;
+    width: 300px;
+    
+}
+
+footer{
+    display:block;
+    background-color: #ffccff;
+    margin: 0;
+    
+}
